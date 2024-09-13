@@ -1,0 +1,220 @@
+<cteProc versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+    <CTe xmlns="http://www.portalfiscal.inf.br/cte">
+        <infCte versao="3.00" Id="CTe33201040433401000150570000000397491000492873">
+            <ide>
+                <cUF>33</cUF>
+                <cCT>00049287</cCT>
+                <CFOP>5352</CFOP>
+                <natOp>PRESTACAO DE SERVICO DE TRANSPORTE A ESTABELECIMENTO INDUSTR</natOp>
+                <mod>57</mod>
+                <serie>0</serie>
+                <nCT>39749</nCT>
+                <dhEmi>2020-10-05T13:10:09-03:00</dhEmi>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <tpCTe>0</tpCTe>
+                <procEmi>0</procEmi>
+                <verProc>Bsoft 3.01.0.0740</verProc>
+                <cMunEnv>3304557</cMunEnv>
+                <xMunEnv>Rio de Janeiro</xMunEnv>
+                <UFEnv>RJ</UFEnv>
+                <modal>01</modal>
+                <tpServ>0</tpServ>
+                <cMunIni>3301702</cMunIni>
+                <xMunIni>Duque de Caxias</xMunIni>
+                <UFIni>RJ</UFIni>
+                <cMunFim>3304557</cMunFim>
+                <xMunFim>Rio de Janeiro</xMunFim>
+                <UFFim>RJ</UFFim>
+                <retira>1</retira>
+                <indIEToma>1</indIEToma>
+                <toma3>
+                    <toma>3</toma>
+                </toma3>
+            </ide>
+            <compl>
+                <xCaracAd>Normal</xCaracAd>
+                <Entrega>
+                    <semData>
+                        <tpPer>0</tpPer>
+                    </semData>
+                    <semHora>
+                        <tpHor>0</tpHor>
+                    </semHora>
+                </Entrega>
+                <xObs>SEGURO DE CARGA : Seguradora MAPFRE SEGUROS - NR Apolice 3836/0048621/54;Informacoes de Pedagios:
+                    Veiculos Proprios: Pagamento eletronico de pedagios TAG conforme resolucao 2885/2008 (Repom S/A CNPJ
+                    65.697.260/0001-03) // Veiculos Terceirizados-Autonomos: Pagamento de vale pedagio anexo.(Roadcard
+                    Solucoes Integradas CNPJ 12.815.827/0001-32) - Vencimento Fatura: 30/10/2020 - Data Coleta
+                    Mercadoria: 05/10/2020;Motorista LEANDRO DA CONCEICAO MENDONCA - CPF 07425415763 - RNTRC 00077113
+                    ;Veiculo Placa LMV1A86 - RENAVAM 01191575524 // Veiculo Vinculado LAF4909 - RENAVAM 628186541 ;
+                </xObs>
+                <ObsCont xCampo="Lei da Transparencia">
+                    <xTexto>O valor aproximado dos tributos e de R$ 174,91 (07,43%)</xTexto>
+                </ObsCont>
+            </compl>
+            <emit>
+                <CNPJ>40433401000150</CNPJ>
+                <IE>84511277</IE>
+                <xNome>BWA TRANSPORTES ESPECIALIZADOS LTDA</xNome>
+                <xFant>BWA TRANSPORTES ESPECIALIZADOS LTDA</xFant>
+                <enderEmit>
+                    <xLgr>EST JOSE RICARDO MUSICO</xLgr>
+                    <nro>165</nro>
+                    <xBairro>BANGU</xBairro>
+                    <cMun>3304557</cMun>
+                    <xMun>Rio de Janeiro</xMun>
+                    <CEP>21853020</CEP>
+                    <UF>RJ</UF>
+                    <fone>2134670077</fone>
+                </enderEmit>
+            </emit>
+            <rem>
+                <CNPJ>33000167008862</CNPJ>
+                <IE>80170270</IE>
+                <xNome>PETROLEO BRASILEIRO S A PETROBRAS</xNome>
+                <xFant>PETROBRAS REFINARIA DUQUE DE CAXIAS</xFant>
+                <fone>2122204007</fone>
+                <enderReme>
+                    <xLgr>RODOVIA WASHINGTON LUIZ BR 040</xLgr>
+                    <nro>S/N</nro>
+                    <xCpl>KM 113 7</xCpl>
+                    <xBairro>CAMPOS ELISEOS</xBairro>
+                    <cMun>3301702</cMun>
+                    <xMun>Duque de Caxias</xMun>
+                    <CEP>25070235</CEP>
+                    <UF>RJ</UF>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                </enderReme>
+            </rem>
+            <dest>
+                <CNPJ>00999042000188</CNPJ>
+                <IE>85203045</IE>
+                <xNome>QUAKER CHEMICAL INDUSTRIA E COMERCIO LTDA - RJ</xNome>
+                <fone>2133051800</fone>
+                <enderDest>
+                    <xLgr>AV.BRASIL</xLgr>
+                    <nro>44.178</nro>
+                    <xBairro>DST.INDL.DE C.GRANDE</xBairro>
+                    <cMun>3304557</cMun>
+                    <xMun>Rio de Janeiro</xMun>
+                    <CEP>23078000</CEP>
+                    <UF>RJ</UF>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                </enderDest>
+                <email>rogerio.silva@quakerhoughton.com</email>
+            </dest>
+            <vPrest>
+                <vTPrest>2354.14</vTPrest>
+                <vRec>2354.14</vRec>
+                <Comp>
+                    <xNome>Frete Peso -</xNome>
+                    <vComp>1995.27</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>ADEME</xNome>
+                    <vComp>358.87</vComp>
+                </Comp>
+            </vPrest>
+            <imp>
+                <ICMS>
+                    <ICMS00>
+                        <CST>00</CST>
+                        <vBC>2354.14</vBC>
+                        <pICMS>20.00</pICMS>
+                        <vICMS>470.83</vICMS>
+                    </ICMS00>
+                </ICMS>
+                <vTotTrib>174.91</vTotTrib>
+            </imp>
+            <infCTeNorm>
+                <infCarga>
+                    <vCarga>119623.12</vCarga>
+                    <proPred>NEUTRO PESADO PNP95</proPred>
+                    <xOutCat>GRANEL</xOutCat>
+                    <infQ>
+                        <cUnid>02</cUnid>
+                        <tpMed>PESO</tpMed>
+                        <qCarga>25.6790</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>03</cUnid>
+                        <tpMed>VOLUMES</tpMed>
+                        <qCarga>1.0000</qCarga>
+                    </infQ>
+                    <vCargaAverb>119623.12</vCargaAverb>
+                </infCarga>
+                <infDoc>
+                    <infNFe>
+                        <chave>33201033000167008862550070003486731423085270</chave>
+                        <dPrev>2020-10-06</dPrev>
+                    </infNFe>
+                </infDoc>
+                <infModal versaoModal="3.00">
+                    <rodo>
+                        <RNTRC>00077113</RNTRC>
+                    </rodo>
+                </infModal>
+                <cobr>
+                    <fat>
+                        <nFat>39749</nFat>
+                        <vOrig>2354.14</vOrig>
+                        <vLiq>2354.14</vLiq>
+                    </fat>
+                    <dup>
+                        <nDup>39749/1</nDup>
+                        <dVenc>2020-10-30</dVenc>
+                        <vDup>2354.14</vDup>
+                    </dup>
+                </cobr>
+            </infCTeNorm>
+            <autXML>
+                <CNPJ>08117647000100</CNPJ>
+            </autXML>
+        </infCte>
+        <infCTeSupl>
+            <qrCodCTe>
+                <![CDATA[https://dfe-portal.svrs.rs.gov.br/cte/qrCode?chCTe=33201040433401000150570000000397491000492873&tpAmb=1]]></qrCodCTe>
+        </infCTeSupl>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#CTe33201040433401000150570000000397491000492873">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>TF66e5bi2dVHyam8ScfrltaHsZs=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                D7WNOV1Wi7pKkeFrf/GK9u1TP0LfeQayByz3p+QDrInuRkRvsd5CQiC08klxFiIQX8ZzayNZf5X1QJAMjXZcyRhP6w9DQ654r3vIZZTROLtoJjJcKi+5hdLzLXUUS3xrpV+dF/hRViyJaNiKt1UgKfT8AdiCnOQlSyhPupkdn9Q/1jHPi9UvB99JdS7ggN9tOKn4JaOOUihAu0Yd6uKji2dCCOzG2IPBWAfN+7Qx1mjU/IJXNPKVGvIwXMEN3873/wTUhNmy949DplqUbZNKd92++F3aZbpkVZlarTJWkUMiFeXlYSU7AO7ATDAuAMzr8xsEl2DrIdQCKLT+PzdyCA==
+            </SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </CTe>
+    <protCTe versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+        <infProt Id="CTe333200107313196">
+            <tpAmb>1</tpAmb>
+            <verAplic>RS20200915181434</verAplic>
+            <chCTe>33201040433401000150570000000397491000492873</chCTe>
+            <dhRecbto>2020-10-05T13:12:32-03:00</dhRecbto>
+            <nProt>333200107313196</nProt>
+            <digVal>TF66e5bi2dVHyam8ScfrltaHsZs=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso do CT-e</xMotivo>
+        </infProt>
+    </protCTe>
+</cteProc>

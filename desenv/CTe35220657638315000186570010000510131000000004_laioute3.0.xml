@@ -1,0 +1,204 @@
+<cteProc versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+	<CTe xmlns="http://www.portalfiscal.inf.br/cte">
+		<infCte Id="CTe35220657638315000186570010000510131000000004" versao="3.00">
+			<ide>
+				<cUF>35</cUF>
+				<cCT>00000000</cCT>
+				<CFOP>6932</CFOP>
+				<natOp>PRESTACAO DE SERVICO DE TRANSPORTE INICIADA EM UNIDADE DA FE</natOp>
+				<mod>57</mod>
+				<serie>1</serie>
+				<nCT>51013</nCT>
+				<dhEmi>2022-06-02T14:48:00-03:00</dhEmi>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>4</cDV>
+				<tpAmb>1</tpAmb>
+				<tpCTe>0</tpCTe>
+				<procEmi>0</procEmi>
+				<verProc>Hivelog CT-e 0.26.0</verProc>
+				<cMunEnv>3503901</cMunEnv>
+				<xMunEnv>ARUJÃ?</xMunEnv>
+				<UFEnv>SP</UFEnv>
+				<modal>01</modal>
+				<tpServ>0</tpServ>
+				<cMunIni>3104106</cMunIni>
+				<xMunIni>ARCEBURGO</xMunIni>
+				<UFIni>MG</UFIni>
+				<cMunFim>3518800</cMunFim>
+				<xMunFim>GUARULHOS</xMunFim>
+				<UFFim>SP</UFFim>
+				<retira>1</retira>
+				<indIEToma>1</indIEToma>
+				<toma4>
+					<toma>4</toma>
+					<CNPJ>43078849001081</CNPJ>
+					<IE>978203557244</IE>
+					<xNome>OSWALDO CRUZ QUIMICA INDUSTRIA E COMERCIO LTDA</xNome>
+					<xFant>OSWALDO CRUZ QUIMICA INDUSTRIA E COMERCIO LTDA</xFant>
+					<fone>1124363682</fone>
+					<enderToma>
+						<xLgr>Rua Monica Aparecido Moredo</xLgr>
+						<nro>229</nro>
+						<xBairro>Jd Fatima</xBairro>
+						<cMun>3518800</cMun>
+						<xMun>GUARULHOS</xMun>
+						<CEP>07177000</CEP>
+						<UF>SP</UF>
+					</enderToma>
+				</toma4>
+			</ide>
+			<compl>
+				<ObsCont xCampo="Lei da TransparÃªncia">
+					<xTexto>O valor aproximado de tributos incidentes sobre o preÃ§o deste serviÃ§o Ã© de R$ 0.0</xTexto>
+				</ObsCont>
+			</compl>
+			<emit>
+				<CNPJ>57638315000186</CNPJ>
+				<IE>188147722111</IE>
+				<xNome>H R TRANSPORTES</xNome>
+				<xFant>H R TRANSPORTES</xFant>
+				<enderEmit>
+					<xLgr>RUA TURIM (JD I HILLS III)</xLgr>
+					<nro>555</nro>
+					<xBairro>SÃƒO BENTO</xBairro>
+					<cMun>3503901</cMun>
+					<xMun>ARUJÃ?</xMun>
+					<CEP>07438555</CEP>
+					<UF>SP</UF>
+					<fone>11957597858</fone>
+				</enderEmit>
+			</emit>
+			<rem>
+				<CNPJ>61148391000180</CNPJ>
+				<IE>0022569850195</IE>
+				<xNome>OSWALDO CRUZ QUIMICA INDUSTRIA E COMERCIO LTDA</xNome>
+				<enderReme>
+					<xLgr>RODOVIA ARCEBURGO/MG A MOCOCA/SP KM 12</xLgr>
+					<nro>1</nro>
+					<xBairro>ARCEBURGO</xBairro>
+					<cMun>3104106</cMun>
+					<xMun>ARCEBURGO</xMun>
+					<CEP>37820000</CEP>
+					<UF>MG</UF>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+				</enderReme>
+			</rem>
+			<dest>
+				<CNPJ>43078849001082</CNPJ>
+				<IE>336775609119</IE>
+				<xNome>VETTA QUIMICA IMPORTACAO E EXPORT LTDA</xNome>
+				<fone>1124363838</fone>
+				<enderDest>
+					<xLgr>RUA JOAO RANIERI, 1077 GALPAO 001</xLgr>
+					<nro>1077</nro>
+					<xBairro>JARDIM FATIMA</xBairro>
+					<cMun>3518800</cMun>
+					<xMun>GUARULHOS</xMun>
+					<CEP>07177120</CEP>
+					<UF>SP</UF>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+				</enderDest>
+			</dest>
+			<vPrest>
+				<vTPrest>4900.00</vTPrest>
+				<vRec>4900.00</vRec>
+				<Comp>
+					<xNome>Frete Total</xNome>
+					<vComp>4900.00</vComp>
+				</Comp>
+			</vPrest>
+			<imp>
+				<ICMS>
+					<ICMSSN>
+						<CST>90</CST>
+						<indSN>1</indSN>
+					</ICMSSN>
+				</ICMS>
+				<vTotTrib>0.00</vTotTrib>
+			</imp>
+			<infCTeNorm>
+				<infCarga>
+					<vCarga>290885.76</vCarga>
+					<proPred>DVS</proPred>
+					<infQ>
+						<cUnid>01</cUnid>
+						<tpMed>Peso Bruto</tpMed>
+						<qCarga>20160.0000</qCarga>
+					</infQ>
+					<infQ>
+						<cUnid>01</cUnid>
+						<tpMed>Peso Liquido</tpMed>
+						<qCarga>19200.0000</qCarga>
+					</infQ>
+					<infQ>
+						<cUnid>01</cUnid>
+						<tpMed>Peso Cubado</tpMed>
+						<qCarga>20160.0000</qCarga>
+					</infQ>
+					<infQ>
+						<cUnid>03</cUnid>
+						<tpMed>Unidades</tpMed>
+						<qCarga>96.0000</qCarga>
+					</infQ>
+				</infCarga>
+				<infDoc>
+					<infNFe>
+						<chave>31220653425120001179550010000180141002373631</chave>
+					</infNFe>
+				</infDoc>
+				<infModal versaoModal="3.00">
+					<rodo>
+						<RNTRC>53227733</RNTRC>
+					</rodo>
+				</infModal>
+			</infCTeNorm>
+			<autXML>
+				<CNPJ>04898488000177</CNPJ>
+			</autXML>
+			<infRespTec>
+				<CNPJ>07960929000101</CNPJ>
+				<xContato>Hivelog SoluÃ§Ãµes em Tecnologia da InformaÃ§Ã£o</xContato>
+				<email>desenvolvimento@hivecloud.com.br</email>
+				<fone>8140628262</fone>
+			</infRespTec>
+		</infCte>
+		<infCTeSupl>
+			<qrCodCTe>https://nfe.fazenda.sp.gov.br/CTeConsulta/qrCode?chCTe=35220639234966000129570010000060121000000004&amp;tpAmb=1</qrCodCTe>
+		</infCTeSupl>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+				<Reference URI="#CTe35220639234966000129570010000060121000000004">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+					<DigestValue>vm6/xFVt6RQQo+TcjQI7+XoM0ME=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>UavZQCu2LcOcValiBuxbl6JZF+xykdP3j84GIHjbUhBejiJYz/czJjCL5//GFBxre/Jx4FoQCBHMJShYW8gTD/i5nDxGmiDikiUpSDl0Bq09wYne9L+epsvpoT0NQiDqNAkhPfnZBG6U71bWC6zTun/4WYgMFM2saXnM81OLdjkPW/z0ITXCaDkxix6jyT/Afh5OV9Hv00uQUDtAUKTvqPScdURgNoJs/ZEmYP/Po+2W6kyzC+gE3Td6kwdUTMhoqOWPPq4+9jST1bPBNcZLRPw17w0+7w5DwMw/BDnaueJUFAoXlGKIOZf+SqF2YX/QqrB6mGPiT6jplBGMiQrsfw==</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</CTe>
+	<protCTe versao="3.00">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>SP-CTe-2021-08-19-1</verAplic>
+			<chCTe>35220639234966000129570010000060121000000004</chCTe>
+			<dhRecbto>2022-06-02T14:50:08-03:00</dhRecbto>
+			<nProt>135225440892774</nProt>
+			<digVal>vm6/xFVt6RQQo+TcjQI7+XoM0ME=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso do CT-e</xMotivo>
+		</infProt>
+	</protCTe>
+</cteProc>

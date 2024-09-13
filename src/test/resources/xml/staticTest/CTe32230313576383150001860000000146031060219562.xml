@@ -1,0 +1,209 @@
+<cteProc versao="3.00"
+         xmlns="http://www.portalfiscal.inf.br/cte">
+	<CTe xmlns="http://www.portalfiscal.inf.br/cte">
+		<infCte Id="CTe32230313576383150001860000000146031060219562" versao="3.00">
+			<ide>
+				<cUF>32</cUF>
+				<cCT>6021956.54</cCT>
+				<CFOP>6352</CFOP>
+				<natOp>TRANSPORTE RODOVIARIO DE CARGAS</natOp>
+				<mod>57</mod>
+				<serie>0</serie>
+				<nCT>14603</nCT>
+				<dhEmi>2023-03-22T08:05:00-03:00</dhEmi>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>2</cDV>
+				<tpAmb>1</tpAmb>
+				<tpCTe>0</tpCTe>
+				<procEmi>0</procEmi>
+				<verProc>1</verProc>
+				<cMunEnv>3201209</cMunEnv>
+				<xMunEnv>Cachoeiro de Itapemirim</xMunEnv>
+				<UFEnv>SP</UFEnv>
+				<modal>01</modal>
+				<tpServ>0</tpServ>
+				<cMunIni>3201209</cMunIni>
+				<xMunIni>Cachoeiro de Itapemirim</xMunIni>
+				<UFIni>SP</UFIni>
+				<cMunFim>3511508</cMunFim>
+				<xMunFim>Cerquilho</xMunFim>
+				<UFFim>SP</UFFim>
+				<retira>0</retira>
+				<indIEToma>1</indIEToma>
+				<toma3>
+					<toma>3</toma>
+				</toma3>
+				<toma4>
+					<toma>4</toma>
+				</toma4>
+			</ide>
+			<compl>
+				<xObs>- SEGURADORA: SOMPO SEGUROS S/A, NUMERO DE APOLICE: 5400037666. RENAVAM: 01324803972, PLACA: SFR-2A42 - Vencimento: 08/05/2023 - Valor: R$ 11.100,00</xObs>
+				<ObsCont xCampo="Lei da Transparencia">
+					<xTexto>Fed - R$ 1.492,95/ Est - R$ 0,00/ Mun - R$ 222,00/ Total - R$ 1.714,95 / Fonte - IBPT  M2L5P8</xTexto>
+				</ObsCont>
+				<ObsCont xCampo="RESPSEG">
+					<xTexto>13.226.507/0001-00</xTexto>
+				</ObsCont>
+				<fluxo><pass>
+					<xPass>0000</xPass>
+				</pass></fluxo>
+
+			</compl>
+			<emit>
+				<CNPJ>57638315000186</CNPJ>
+				<IE>082777306</IE>
+				<xNome>FATRAN TRANSPORTE E LOGISTICA LTDA</xNome>
+				<xFant>FATRAN TRANSPORTES</xFant>
+				<enderEmit>
+					<xLgr>RUA FEIERTAG JACQUES</xLgr>
+					<nro>66</nro>
+					<xBairro>CAICARA</xBairro>
+					<cMun>3201209</cMun>
+					<xMun>Cachoeiro de Itapemirim</xMun>
+					<CEP>29310375</CEP>
+					<UF>SP</UF>
+					<fone>2830368266</fone>
+				</enderEmit>
+			</emit>
+			<rem>
+				<CNPJ>92633315000194</CNPJ>
+				<IE>081958048</IE>
+				<xNome>SB MINERACAO LTDA</xNome>
+				<xFant>SB MINERACAO</xFant>
+				<fone>2835231558</fone>
+				<enderReme>
+					<xLgr>ESTRADA GIRONDA X MOLEDO</xLgr>
+					<nro>0</nro>
+					<xBairro>GIRONDA</xBairro>
+					<cMun>3201209</cMun>
+					<xMun>Cachoeiro de Itapemirim</xMun>
+					<CEP>29326000</CEP>
+					<UF>SP</UF>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+				</enderReme>
+				<email>comercial@sbmineracao.com.br</email>
+			</rem>
+			<dest>
+				<CNPJ>43078849001081</CNPJ>
+				<IE>265000201111</IE>
+				<xNome>CIPATEX IMPREGNADORA DE PAPEIS E TECIDOS LTDA</xNome>
+				<fone>1532849000</fone>
+				<enderDest>
+					<xLgr>AV. 1 DE MAIO</xLgr>
+					<nro>1341</nro>
+					<xBairro>ESTIVA</xBairro>
+					<cMun>3511508</cMun>
+					<xMun>Cerquilho</xMun>
+					<CEP>18520000</CEP>
+					<UF>SP</UF>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+				</enderDest>
+				<email>Leandro.Thibes@cipatex.com.br</email>
+			</dest>
+			<vPrest>
+				<vTPrest>11100.00</vTPrest>
+				<vRec>11100.00</vRec>
+				<Comp>
+					<xNome>Frete Peso</xNome>
+					<vComp>11100.00</vComp>
+				</Comp>
+			</vPrest>
+			<imp>
+				<ICMS>
+					<ICMS00>
+						<CST>00</CST>
+						<vBC>11100.00</vBC>
+						<pICMS>12.00</pICMS>
+						<vICMS>1332.00</vICMS>
+					</ICMS00>
+				</ICMS>
+				<vTotTrib>1714.95</vTotTrib>
+			</imp>
+			<infCTeNorm>
+				<infCarga>
+					<vCarga>10425.00</vCarga>
+					<proPred>CARBONATO</proPred>
+					<xOutCat>PALLET SACARIA -  CARRETA - LI</xOutCat>
+					<infQ>
+						<cUnid>03</cUnid>
+						<tpMed>UNID.</tpMed>
+						<qCarga>25.0000</qCarga>
+					</infQ>
+					<infQ>
+						<cUnid>01</cUnid>
+						<tpMed>PESO BRUTO</tpMed>
+						<qCarga>37500.0000</qCarga>
+					</infQ>
+					<vCargaAverb>10425.00</vCargaAverb>
+				</infCarga>
+				<infDoc>
+					<infNFe>
+						<chave>32230392633315000194550010007631871151781698</chave>
+						<dPrev>2023-03-24</dPrev>
+					</infNFe>
+				</infDoc>
+				<infModal versaoModal="3.00">
+					<rodo>
+						<RNTRC>46617621</RNTRC>
+						<occ>
+							<serie>000</serie>
+							<nOcc>000000</nOcc>
+							<dEmi>2023-07-28</dEmi>
+						</occ>
+						<occ>
+							<serie>001</serie>
+							<nOcc>00001</nOcc>
+							<dEmi>2023-08-29</dEmi>
+						</occ>
+					</rodo>
+				</infModal>
+			</infCTeNorm>
+			<infRespTec>
+				<CNPJ>10929600000192</CNPJ>
+				<xContato>Rodrigo Goronci Santana</xContato>
+				<email>rodrigo@servicelogic.com.br</email>
+				<fone>02735001702</fone>
+			</infRespTec>
+		</infCte>
+		<infCTeSupl>
+			<qrCodCTe><![CDATA[https://dfe-portal.svrs.rs.gov.br/cte/qrCode?chCTe=32230313226507000100570000000296651060219562&tpAmb=1]]></qrCodCTe>
+		</infCTeSupl>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#CTe32230313226507000100570000000296651060219562">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>pITeJzsmI9bSj4YbPHiY+ZA2g6Y=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>CT9kCdnvimgIexPvNOLeyeiu4Xop53KL4DTaqiSo2cJQttFsWL9VC/iHPVRj5E/hOj3TSl5aE13/AImgxfJHZrN6klSfFQxsDbl/DoHCpV1fExsaSOtFRWw31qm7xYbHjAAKDoT04Yd6NduXJjsC0f94xsz+qdV/dR3XS4EkMUUAfW02Iu5AficMUCmSN4gzhqPSAkxJwVYfK/fxbtwmWN8R3j/6BQ9pLu/maoW4kKBtYBzv1HKqSgaJEqSOAuBnW8071jw1PjBM7S/8n9MN9tVRqTx5JQFueMFg55WRzsZjjdmZVXk7N5+hXTcKBBCmDk5dNerGGfBHTIL0IFVAaQ==</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</CTe>
+	<protCTe versao="3.00"
+	         xmlns="http://www.portalfiscal.inf.br/cte">
+		<infProt Id="CTe332230025208044">
+			<tpAmb>1</tpAmb>
+			<verAplic>RS20230131113942</verAplic>
+			<chCTe>32230313226507000100570000000296651060219562</chCTe>
+			<dhRecbto>2023-03-22T08:07:05-03:00</dhRecbto>
+			<nProt>332230025208044</nProt>
+			<digVal>pITeJzsmI9bSj4YbPHiY+ZA2g6Y=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso do CT-e</xMotivo>
+		</infProt>
+	</protCTe>
+</cteProc>

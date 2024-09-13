@@ -1,0 +1,52 @@
+<cteProc versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+	<CTe xmlns="http://www.portalfiscal.inf.br/cte">
+		<infCte Id="CTe33200900650831000370570060000719081016656108" versao="3.00">
+			<ide>
+				<cUF>33</cUF>
+				<cCT>01665610</cCT>
+				<CFOP>6352</CFOP>
+				<natOp>Transp a est industrial</natOp>
+				<xPag>TRANSF. BANC??RIA</xPag>
+				<mod>57</mod>
+				<serie>6</serie>
+				<nCT>71908</nCT>
+				<dhEmi>2020-09-28T20:00:15-03:00</dhEmi>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>8</cDV>
+				<tpAmb>1</tpAmb>
+				<tpCTe>0</tpCTe>
+				<procEmi>0</procEmi>
+				<verProc>1.0</verProc>
+				<cMunEnv>3301702</cMunEnv>
+				<xMunEnv>DUQUE DE CAXIAS</xMunEnv>
+				<UFEnv>RJ</UFEnv>
+				<modal>01</modal>
+				<tpServ>0</tpServ>
+				<cMunIni>3304557</cMunIni>
+				<xMunIni>RIO DE JANEIRO</xMunIni>
+				<UFIni>RJ</UFIni>
+				<cMunFim>3549904</cMunFim>
+				<xMunFim>SAO JOSE DOS CAMPOS</xMunFim>
+				<UFFim>SP</UFFim>
+				<retira>1</retira>
+				<indIEToma>1</indIEToma>
+				<toma3>
+					<toma>0</toma>
+				</toma3>
+			</ide>
+		</infCte>
+	</CTe>
+	<protCTe versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+		<infProt Id="CTe333200104427040">
+			<tpAmb>1</tpAmb>
+			<verAplic>RS20200925112450</verAplic>
+			<chCTe>33200900650831000370570060000719081016656108</chCTe>
+			<dhRecbto>2020-09-28T20:00:17-03:00</dhRecbto>
+			<nProt>333200104427040</nProt>
+			<digVal>2buMae206W3CzksPzD+A0Ys/qhI=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso do CT-e</xMotivo>
+		</infProt>
+	</protCTe>
+</cteProc>					

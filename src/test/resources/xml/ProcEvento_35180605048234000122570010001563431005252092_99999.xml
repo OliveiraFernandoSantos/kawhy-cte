@@ -1,0 +1,55 @@
+<procEventoCTe versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+	<eventoCTe xmlns="http://www.portalfiscal.inf.br/cte" versao="3.00">
+		<infEvento Id="ID11011135180605048234000122570010001563431005252092" xmlns="http://www.portalfiscal.inf.br/cte">
+			<cOrgao>35</cOrgao>
+			<tpAmb>1</tpAmb>
+			<CNPJ>05048234000122</CNPJ>
+			<chCTe>35180605048234000122570010001563431005252092</chCTe>
+			<dhEvento>2018-06-30T11:08:03-03:00</dhEvento>
+			<tpEvento>99999</tpEvento>
+			<nSeqEvento>1</nSeqEvento>
+			<detEvento versaoEvento="3.00">
+				<evCancCTe>
+					<descEvento>QUalquer outra coisa </descEvento>
+					<nProt>135181231442379</nProt>
+					<xJust>GERADO INDEVIDAMENTE</xJust>
+				</evCancCTe>
+			</detEvento>
+		</infEvento>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#ID1101113518060504823400012257001000156343100525209201">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>T7laK7Yo1FxNjDePNuPuV+Zi5DU=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>ZS3CbYCbpSP07OjozDbDZypvTUKqvRVtavLCfo81PZ+WFFuZpkP0rIqo013St9LgAIBtUF24b0IIwEjgFLh4yldDY3TCr4GJsgSw1yYBBCwHYe1sSS/pVnHM735O0EzguAq+rIX7kpr9swGTUE3l6shZJmnkqk7B0dJ0QEA5iUn67U9HKvkf7hp9pc/xUZkR1KIEkYhETUxi/gvjFe064hORh5kyR6ZxPiNFNXK+qhpUvAmyEUpJ/Xh6sTg411TMBJ2RCW99/4+aXgm6LiN341D9cUdhlf6yJHHZ6gatnxgj2uZHBNjbALQqTWVCUgQXWqJANTxSlM4XZ9DAl6BQqw==</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</eventoCTe>
+	<retEventoCTe versao="3.00">
+		<infEvento>
+			<tpAmb>1</tpAmb>
+			<verAplic>SP-CTe-30-05-2018</verAplic>
+			<cOrgao>35</cOrgao>
+			<cStat>135</cStat>
+			<xMotivo>Evento registrado e vinculado a CT-e</xMotivo>
+			<chCTe>35180605048234000122570010001563431005252092</chCTe>
+			<tpEvento>110111</tpEvento>
+			<xEvento>Cancelamento</xEvento>
+			<nSeqEvento>1</nSeqEvento>
+			<dhRegEvento>2018-06-30T11:13:03-03:00</dhRegEvento>
+			<nProt>135181232163955</nProt>
+		</infEvento>
+	</retEventoCTe>
+</procEventoCTe>

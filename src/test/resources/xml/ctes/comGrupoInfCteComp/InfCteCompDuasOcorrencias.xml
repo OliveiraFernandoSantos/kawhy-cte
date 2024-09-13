@@ -1,0 +1,182 @@
+<cteProc versao="3.00"
+    xmlns="http://www.portalfiscal.inf.br/cte">
+    <CTe xmlns="http://www.portalfiscal.inf.br/cte">
+        <infCte versao="3.00" Id="CTe35240108988083000180570010002475371002475377">
+            <ide>
+                <cUF>35</cUF>
+                <cCT>00247537</cCT>
+                <CFOP>5352</CFOP>
+                <natOp>PREST.SERV.TRANSP.P/INDUSTRIA</natOp>
+                <mod>57</mod>
+                <serie>1</serie>
+                <nCT>247537</nCT>
+                <dhEmi>2024-01-03T14:21:00-03:00</dhEmi>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <tpCTe>1</tpCTe>
+                <procEmi>0</procEmi>
+                <verProc>3.0.6.70</verProc>
+                <cMunEnv>3509502</cMunEnv>
+                <xMunEnv>CAMPINAS</xMunEnv>
+                <UFEnv>SP</UFEnv>
+                <modal>01</modal>
+                <tpServ>0</tpServ>
+                <cMunIni>3518800</cMunIni>
+                <xMunIni>GUARULHOS</xMunIni>
+                <UFIni>SP</UFIni>
+                <cMunFim>3548708</cMunFim>
+                <xMunFim>SAO BERNARDO DO CAMPO</xMunFim>
+                <UFFim>SP</UFFim>
+                <retira>1</retira>
+                <indIEToma>1</indIEToma>
+                <toma3>
+                    <toma>3</toma>
+                </toma3>
+            </ide>
+            <compl>
+                <xCaracAd>Compl. Outros</xCaracAd>
+                <xEmi>BRUNO DE SOUZA TOLED</xEmi>
+                <fluxo>
+                    <xOrig>GRU</xOrig>
+                    <xDest>SBC</xDest>
+                    <xRota>GRUSBC</xRota>
+                </fluxo>
+                <origCalc>GUARULHOS</origCalc>
+                <destCalc>SAO BERNARDO DO CAMPO</destCalc>
+                <xObs>CTE COMPLEMENTAR (247369) / O CAMPO ADICIONAL SE REFERE A TAXA DE UMA PERNOITE (R$ 195,50) + HORAS PARADAS (R$ 1.104,00) 16:00hs.    -     Total Aproximado de Impostos : 224,63;</xObs>
+                <ObsCont xCampo="motorista">
+                    <xTexto>EMERSON DA SILVA PISSOLATO</xTexto>
+                </ObsCont>
+                <ObsCont xCampo="cpf_motorista">
+                    <xTexto>063.564.689-71</xTexto>
+                </ObsCont>
+                <ObsCont xCampo="placa">
+                    <xTexto>GJK9D18</xTexto>
+                </ObsCont>
+            </compl>
+            <emit>
+                <CNPJ>08988083000180</CNPJ>
+                <IE>244745350111</IE>
+                <xNome>GROUP NASIF LOGISTICA E TRANSPORTE EIRELI</xNome>
+                <xFant>GROUP NASIF</xFant>
+                <enderEmit>
+                    <xLgr>AV ANTONIO BUSCATO, 50</xLgr>
+                    <nro>0</nro>
+                    <xBairro>TIC</xBairro>
+                    <cMun>3509502</cMun>
+                    <xMun>CAMPINAS</xMun>
+                    <CEP>13069119</CEP>
+                    <UF>SP</UF>
+                    <fone>01937826122</fone>
+                </enderEmit>
+            </emit>
+            <rem>
+                <CNPJ>00352294005775</CNPJ>
+                <IE>ISENTO</IE>
+                <xNome>AEROPORTO INTERNACIONAL DE GUARULHOS</xNome>
+                <xFant>AEROPORT GRU 0057-75</xFant>
+                <enderReme>
+                    <xLgr>RODOVIA HELIO SMIDT, S/N</xLgr>
+                    <nro>0</nro>
+                    <xBairro>CUMBICA</xBairro>
+                    <cMun>3518800</cMun>
+                    <xMun>GUARULHOS</xMun>
+                    <CEP>07190100</CEP>
+                    <UF>SP</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderReme>
+            </rem>
+            <dest>
+                <CNPJ>62651955000409</CNPJ>
+                <IE>635700830117</IE>
+                <xNome>IMCD BRASIL FARMACEUTICOS IMPORT, EXPORT E REPRESENT LTDA</xNome>
+                <fone>1985355441</fone>
+                <enderDest>
+                    <xLgr>RUA FAUSTINO NEGRI, DEPOSITO 1,2 E 3</xLgr>
+                    <nro>285</nro>
+                    <xBairro>COOPERATIVA</xBairro>
+                    <cMun>3548708</cMun>
+                    <xMun>SAO BERNARDO DO CAMPO</xMun>
+                    <CEP>09851720</CEP>
+                    <UF>SP</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderDest>
+                <email>ELIANE.SAMPAIO@IMCDBRASIL.COM.BR</email>
+            </dest>
+            <vPrest>
+                <vTPrest>1476.70</vTPrest>
+                <vRec>1476.70</vRec>
+                <Comp>
+                    <xNome>ICMS</xNome>
+                    <vComp>177.20</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>ADICIONAL</xNome>
+                    <vComp>1299.50</vComp>
+                </Comp>
+            </vPrest>
+            <imp>
+                <ICMS>
+                    <ICMS00>
+                        <CST>00</CST>
+                        <vBC>1476.70</vBC>
+                        <pICMS>12.00</pICMS>
+                        <vICMS>177.20</vICMS>
+                    </ICMS00>
+                </ICMS>
+                <vTotTrib>224.64</vTotTrib>
+            </imp>
+            <infCteComp>
+                <chCTe>35240108988083000180570010002473691002473699</chCTe>
+            </infCteComp>
+            <infCteComp>
+                <chCTe>35240108988083000180570010002473691002473799</chCTe>
+            </infCteComp>
+            <infRespTec>
+                <CNPJ>62351820000266</CNPJ>
+                <xContato>ARNALDO DOS SANTOS ALMEIDA NETO</xContato>
+                <email>suporte@datapar.com.br</email>
+                <fone>01930148080</fone>
+            </infRespTec>
+        </infCte>
+        <infCTeSupl>
+            <qrCodCTe>https://nfe.fazenda.sp.gov.br/CTeConsulta/qrCode?chCTe=35240108988083000180570010002475371002475370&amp;tpAmb=1</qrCodCTe>
+        </infCTeSupl>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#CTe35240108988083000180570010002475371002475377">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>Fdz0WHUF9dN64tjLYkxtVvkmqAI=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>CHQVvMYwEDsli+gujNfT1DSCSN8nFu70CNOqMEloVakhlA2Kz6vbFVgVUBl4lNmV0V2kvZCVoauW45rzeVAynHJikXVUkJl/drbSce92G4fx4WTwLDW7OCzhFTPZZMyYiFbqgQe6ixMwL3yToj6TFiQ2WOkMGm6XxVSk7qFt2ii2m5Mhbc4XRnLQNW9mB+ImFOomQS+ZG4Bo1fjb3yRgxqOU5DSOr+08T4sIHE012TUjNC4gAd18XSA1d04ZvkFBP9PxfEo0l10+uGNjHDwQWz8otP6q4riXUKWeiY0WOHmuuj18xxlGJ4Qya7ym65Di7vHyXtUHSwMjzwFIEXqlWA==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </CTe>
+    <protCTe versao="3.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP-CTe-2023-08-30-1</verAplic>
+            <chCTe>35240108988083000180570010002475371002475370</chCTe>
+            <dhRecbto>2024-01-03T14:26:34-03:00</dhRecbto>
+            <nProt>135240020723893</nProt>
+            <digVal>Fdz0WHUF9dN64tjLYkxtVvkmqAI=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso do CT-e</xMotivo>
+        </infProt>
+    </protCTe>
+</cteProc>

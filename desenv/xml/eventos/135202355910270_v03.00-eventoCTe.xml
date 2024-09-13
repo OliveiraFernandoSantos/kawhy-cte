@@ -1,0 +1,69 @@
+<procEventoCTe versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+    <eventoCTe xmlns="http://www.portalfiscal.inf.br/cte" versao="3.00">
+        <infEvento Id="ID3106103520071518032700016057006000005253125803972701">
+            <cOrgao>35</cOrgao>
+            <tpAmb>1</tpAmb>
+            <CNPJ>87124582000104</CNPJ>
+            <chCTe>35200715180327000160570060000052531258039727</chCTe>
+            <dhEvento>2020-07-22T22:13:34-03:00</dhEvento>
+            <tpEvento>310610</tpEvento>
+            <nSeqEvento>01</nSeqEvento>
+            <detEvento versaoEvento="3.00">
+                <evCTeAutorizadoMDFe>
+                    <descEvento>MDF-e Autorizado</descEvento>
+                    <MDFe>
+                        <chMDFe>35200711591040000171580010000304021169040687</chMDFe>
+                        <modal>01</modal>
+                        <dhEmi>2020-07-22T22:13:00-03:00</dhEmi>
+                        <nProt>935200019184899</nProt>
+                        <dhRecbto>2020-07-22T22:12:33-03:00</dhRecbto>
+                    </MDFe>
+                    <emit>
+                        <CNPJ>11591040000171</CNPJ>
+                        <IE>799063060112</IE>
+                        <xNome>DFL TRANSPORTES EIRELI</xNome>
+                    </emit>
+                </evCTeAutorizadoMDFe>
+            </detEvento>
+        </infEvento>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#ID3106103520071518032700016057006000005253125803972701">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>sEqUiWdifJIAlBggrGmyljzccPI=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                b+mVe/xzjVME1q99xXw5XNICOOi1+lISTB8tbMgI9D4tm+7pUU11gkylbC6q5mTSY+759KwDs8mXlbld+w7wpEAEJuLxlcX0HtrouZH7BEDOZX9G8y2XMnYAMX9EIb/XXPkvi+eogdd84SzMPfPcabU0qQwrqXEkf81M8s14u9CcmGkU3RZVDcGOFdjdVYCtEJvMfztu05i2HfRzdhqTRkhydjxFdnkyJDg6nxzKpQqH5XbKqCGxQbRvS30OGJqPU68YHScz/FJBD0DMdQNsDqB8QeKDL2T3lwjGytoSDZpvCYv0D35xUi68JpROSHvOwcFXlS4/H4JjRCHhqvypfw==
+            </SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </eventoCTe>
+    <retEventoCTe versao="3.00">
+        <infEvento>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP-CTe-2020-07-16-1</verAplic>
+            <cOrgao>35</cOrgao>
+            <cStat>135</cStat>
+            <xMotivo>Evento registrado e vinculado a CT-e</xMotivo>
+            <chCTe>35200715180327000160570060000052531258039727</chCTe>
+            <tpEvento>310610</tpEvento>
+            <xEvento>Autorizado MDF-e</xEvento>
+            <nSeqEvento>01</nSeqEvento>
+            <dhRegEvento>2020-07-22T22:13:34-03:00</dhRegEvento>
+            <nProt>135202355910270</nProt>
+        </infEvento>
+    </retEventoCTe>
+</procEventoCTe>

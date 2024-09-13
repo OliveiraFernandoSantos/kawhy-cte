@@ -1,0 +1,69 @@
+<procEventoCTe versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+    <eventoCTe xmlns="http://www.portalfiscal.inf.br/cte" versao="3.00">
+        <infEvento Id="ID1101803520064324463100032057004000322328188532994301">
+            <cOrgao>35</cOrgao>
+            <tpAmb>1</tpAmb>
+            <CNPJ>43244631000320</CNPJ>
+            <chCTe>35200643244631000320570040003223281885329943</chCTe>
+            <dhEvento>2020-10-06T16:49:35-03:00</dhEvento>
+            <tpEvento>110180</tpEvento>
+            <nSeqEvento>1</nSeqEvento>
+            <detEvento versaoEvento="3.00">
+                <evCECTe>
+                    <descEvento>Comprovante de Entrega do CT-e</descEvento>
+                    <nProt>135202187847205</nProt>
+                    <dhEntrega>2020-06-22T09:25:56-03:00</dhEntrega>
+                    <nDoc>NAO SE APLICA</nDoc>
+                    <xNome>LUIDY</xNome>
+                    <hashEntrega>OudNYC+0hQ3fTHcP4IMh3TnIw/Y=</hashEntrega>
+                    <dhHashEntrega>2020-10-06T16:49:35-03:00</dhHashEntrega>
+                    <infEntrega>
+                        <chNFe>35200672381189001001550010020102311646309169</chNFe>
+                    </infEntrega>
+                    <infEntrega>
+                        <chNFe>35200672381189001001550010020102301427468809</chNFe>
+                    </infEntrega>
+                </evCECTe>
+            </detEvento>
+        </infEvento>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#ID1101803520064324463100032057004000322328188532994301">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>M78EdynnO3OzkihS3ss9JsZn7Ls=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                ojNzrA3YkZlF5XSokjtgWb5tEeTvePPwu2WFF1MpZSApMLVXioQwANBXCfOfaUEmsUOw5L8hGjqPu69hiir2RNlVKFKpTWMTWI1QszPgvOXrG1r7h3zRUrvw4ouBq1TO1YiZeQpYoic5Qg9QX0hBST809Sji5sgubxCaMgo8TEzwKg21M+zsXwFiC+mlAcQsofu+HzCezc9++hRMsZd8hZJHBcb2WoxHxylSPQkyxeqiuIJhRGlFVghkf+ejuPpJaI3PG+tQh66V5ZJPDbgr9veNs33beNRhf990ghpIdZpPZR4FMi4iHKhOsswxVQFRlWOYczeu5P1Vlfofxn+K6A==
+            </SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </eventoCTe>
+    <retEventoCTe versao="3.00">
+        <infEvento>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP-CTe-2020-08-03-1</verAplic>
+            <cOrgao>35</cOrgao>
+            <cStat>135</cStat>
+            <xMotivo>Evento registrado e vinculado a CT-e</xMotivo>
+            <chCTe>35200643244631000320570040003223281885329943</chCTe>
+            <tpEvento>110180</tpEvento>
+            <xEvento>Comprovante de Entrega do CT-e</xEvento>
+            <nSeqEvento>01</nSeqEvento>
+            <dhRegEvento>2020-10-06T16:50:54-03:00</dhRegEvento>
+            <nProt>135202685001864</nProt>
+        </infEvento>
+    </retEventoCTe>
+</procEventoCTe>

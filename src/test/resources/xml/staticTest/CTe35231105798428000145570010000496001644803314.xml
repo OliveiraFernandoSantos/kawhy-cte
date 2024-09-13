@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cteProc versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+    <CTe xmlns="http://www.portalfiscal.inf.br/cte">
+        <infCte Id="CTe29200606203406000662570110000086721008919921" versao="3.00">
+            <ide>
+                <cUF>29</cUF>
+                <cCT>00891400</cCT>
+                <CFOP>5353</CFOP>
+                <natOp>Transp a est comercial</natOp>
+                <mod>57</mod>
+                <serie>11</serie>
+                <nCT>8672</nCT>
+                <dhEmi>2020-06-13T12:31:49-03:00</dhEmi>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <tpCTe>0</tpCTe>
+                <xDetRetira>Este é um exemplo de dado NCHAR(160)</xDetRetira>
+                <procEmi>0</procEmi>
+                <verProc>1.0</verProc>
+                <cMunEnv>2930709</cMunEnv>
+                <xMunEnv>SIMOES FILHO</xMunEnv>
+                <UFEnv>BA</UFEnv>
+                <modal>01</modal>
+                <tpServ>0</tpServ>
+                <cMunIni>2925204</cMunIni>
+                <xMunIni>POJUCA</xMunIni>
+                <UFIni>BA</UFIni>
+                <cMunFim>2917508</cMunFim>
+                <xMunFim>JACOBINA</xMunFim>
+                <UFFim>BA</UFFim>
+                <retira>1</retira>
+                <indIEToma>1</indIEToma>
+                <toma3>
+                    <toma>3</toma>
+                    <CNPJ>06203406000662</CNPJ>
+                    <CPF>47363130809</CPF>
+                    <xNome>NETZSCH DO BRASIL IND COM LTDA - BA</xNome>
+                    <fone>62992947373</fone>
+                    <xFant>TRANSPORTADORA1</xFant>
+                    <email>teste.teste@teste.com.br</email>
+                    <enderEmit>
+                        <xLgr>VIA ACESSO 02 BR 324</xLgr>
+                        <xCpl>LT-3A GLEBA A</xCpl>
+                        <nro>1796</nro>
+                        <xBairro>CIA SUL</xBairro>
+                        <cMun>2930709</cMun>
+                        <xMun>SIMOES FILHO</xMun>
+                        <CEP>43700000</CEP>
+                        <UF>BA</UF>
+                        <fone>62992947373</fone>
+                        <cPais>1058</cPais>
+                        <xPais>BRASIL</xPais>
+                    </enderEmit>
+                </toma3>
+            </ide>
+            <compl>
+                <origCalc>SAO BERNARDO DO CAMPO</origCalc>
+                <destCalc>EXTREMA</destCalc>
+                <xCaracAd>Normal</xCaracAd>
+                <xCaracSer>BIOLAB</xCaracSer>
+                <xEmi>DCAMPOS</xEmi>
+
+                <fluxo>
+                    <pass>
+                        <xPass>GRU</xPass>
+                    </pass>
+                    <xOrig>YHE</xOrig>
+                    <xDest>EDT</xDest>
+                    <xRota>YHEEDT</xRota>
+                </fluxo>
+                <Entrega>
+                    <noInter>
+                        <hIni>18:00:00</hIni>
+                        <hFim>18:00:00</hFim>
+                    </noInter>
+                    <comHora>
+                        <hProg>18:00:00</hProg>
+                    </comHora>
+                    <noPeriodo>
+                        <dIni>2019-05-21</dIni>
+                        <dFim>2023-08-07</dFim>
+                    </noPeriodo>
+                    <comData>
+                        <tpPer>2</tpPer>
+                        <dProg>2020-06-18</dProg>
+                    </comData>
+                    <semHora>
+                        <tpHor>0</tpHor>
+                    </semHora>
+                </Entrega>
+                <xObs>DIM VOLUMES(01): 0,38x0,28x0,41x1 CST: 40 N PEDIDO: 0000099134. - Apolice seguro: 5400017925 -
+                    Seguradora: 61383493000180 SOMPO SEGUROS ISENTO CONF. INCISO CXIII DO ART. 265 DO DECRETO 13780/12
+                    NAO BASTA TRANSPORTAR, NOSSO OBJETIVO E ENCANTAR RNTRC: 01179174.
+                </xObs>
+                <ObsCont xCampo="1">
+                    <xTexto>DIM VOLUMES(01): 0,38x0,28x0,41x1</xTexto>
+                </ObsCont>
+                <ObsCont xCampo="2">
+                    <xTexto>CST: 40 N PEDIDO: 0000099134. - Apolice seguro: 5400017925 - Seguradora: 61383493000180
+                        SOMPO SEGUROS
+                    </xTexto>
+                </ObsCont>
+                <ObsCont xCampo="3">
+                    <xTexto>ISENTO CONF. INCISO CXIII DO ART. 265 DO DECRETO 13780/12</xTexto>
+                </ObsCont>
+                <ObsFisco xCampo="1">
+                    <xTexto>NAO BASTA TRANSPORTAR, NOSSO OBJETIVO E ENCANTAR</xTexto>
+                </ObsFisco>
+                <ObsFisco xCampo="2">
+                    <xTexto>RNTRC: 01179174.</xTexto>
+                </ObsFisco>
+                <ObsFisco xCampo="RESPSEG">
+                    <xTexto>06203406000662</xTexto>
+                </ObsFisco>
+            </compl>
+            <emit>
+                <CNPJ>06203406000662</CNPJ>
+                <CPF>47363130809</CPF>
+                <IE>135888791</IE>
+                <xNome>TRANSLAG TRANSP E LOG LTDA</xNome>
+                <xFant>TRANSPORTADORA1</xFant>
+                <enderEmit>
+                    <xLgr>VIA ACESSO 02 BR 324</xLgr>
+                    <xCpl>LT-3A GLEBA A</xCpl>
+                    <nro>1796</nro>
+                    <xBairro>CIA SUL</xBairro>
+                    <cMun>2930709</cMun>
+                    <xMun>SIMOES FILHO</xMun>
+                    <CEP>43700000</CEP>
+                    <UF>BA</UF>
+                    <fone>62992947373</fone>
+                </enderEmit>
+            </emit>
+            <rem>
+                <CNPJ>82749987001188</CNPJ>
+                <CPF>47363130809</CPF>
+                <IE>163550823</IE>
+                <xNome>NETZSCH DO BRASIL IND COM LTDA - BA</xNome>
+                <fone>62992947373</fone>
+                <email>teste.teste@teste.com.br</email>
+                <xFant>TRANSPORTADORA1</xFant>
+                <enderReme>
+                    <xLgr>AVENIDA ITAPARICA</xLgr>
+                    <xCpl>LT-3A GLEBA A</xCpl>
+                    <nro>204</nro>
+                    <xBairro>POJUCA II</xBairro>
+                    <cMun>2925204</cMun>
+                    <xMun>POJUCA</xMun>
+                    <CEP>48120000</CEP>
+                    <UF>BA</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderReme>
+            </rem>
+            <exped>
+                <CNPJ>82749987001188</CNPJ>
+                <IE>163550823</IE>
+                <xNome>NETZSCH DO BRASIL IND COM LTDA - BA</xNome>
+                <enderExped>
+                    <xLgr>AVENIDA ITAPARICA</xLgr>
+                    <nro>204</nro>
+                    <xBairro>POJUCA II</xBairro>
+                    <cMun>2925204</cMun>
+                    <xMun>POJUCA</xMun>
+                    <CEP>48120000</CEP>
+                    <UF>BA</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderExped>
+            </exped>
+            <receb>
+                <CNPJ>42463174000130</CNPJ>
+                <IE>026501484</IE>
+                <xNome>JACOBINA MINERACAO E COMERCIO S.A.</xNome>
+                <fone>7436218127</fone>
+                <enderReceb>
+                    <xLgr>FAZENDA DO ITAPICURU</xLgr>
+                    <nro>SN</nro>
+                    <xBairro>CENTRO</xBairro>
+                    <cMun>2917508</cMun>
+                    <xMun>JACOBINA</xMun>
+                    <CEP>44700000</CEP>
+                    <UF>BA</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderReceb>
+            </receb>
+            <dest>
+                <CNPJ>42463174000130</CNPJ>
+                <CPF>47363130808</CPF>
+                <IE>026501484</IE>
+                <xNome>JACOBINA MINERACAO E COMERCIO LTDA</xNome>
+                <fone>7436218127</fone>
+                <email>teste.teste@teste.com.br</email>
+                <ISUF>ABCDEFG12345678</ISUF>
+                <enderDest>
+                    <xLgr>FAZENDA ITAPICURU</xLgr>
+                    <nro>S/N</nro>
+                    <xCpl>PARTE</xCpl>
+                    <xBairro>CENTRO</xBairro>
+                    <cMun>2917508</cMun>
+                    <xMun>JACOBINA</xMun>
+                    <CEP>44700000</CEP>
+                    <UF>BA</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderDest>
+            </dest>
+            <vPrest>
+                <vTPrest>59.54</vTPrest>
+                <vRec>59.54</vRec>
+                <Comp>
+                    <xNome>FRETE PESO</xNome>
+                    <vComp>42.00</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>GRIS</xNome>
+                    <vComp>4.81</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>PEDAGIO</xNome>
+                    <vComp>6.00</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>POS</xNome>
+                    <vComp>6.73</vComp>
+                </Comp>
+            </vPrest>
+            <imp>
+                <ICMS>
+                    <ICMS90>
+                        <pRedBC>0</pRedBC>
+                        <CST>40</CST>
+                        <vBC>500</vBC>
+                        <pICMS>18</pICMS>
+                        <vICMS>90</vICMS>
+                        <vCred>0</vCred>
+                    </ICMS90>
+                    <ICMS60>
+                        <vBCSTRet>354</vBCSTRet>
+                        <vICMSSTRet>70.32</vICMSSTRet>
+                        <pICMSSTRet>12</pICMSSTRet>
+                    </ICMS60>
+                    <ICMSOutraUF>
+                        <pRedBCOutraUF>0</pRedBCOutraUF>
+                        <vBCOutraUF>0</vBCOutraUF>
+                        <pICMSOutraUF>20</pICMSOutraUF>
+                        <vICMSOutraUF>200</vICMSOutraUF>
+                    </ICMSOutraUF>
+                    <ICMSSN>
+                        <indSN>1</indSN>
+                    </ICMSSN>
+                </ICMS>
+                <infAdFisco>Texto Teste</infAdFisco>
+                <vTotTrib>0.00</vTotTrib>
+                <ICMSUFFim>
+                    <vBCUFFim>0.00</vBCUFFim>
+                    <pFCPUFFim>0.00</pFCPUFFim>
+                    <pICMSUFFim>0.00</pICMSUFFim>
+                    <pICMSInter>0.00</pICMSInter>
+                    <vFCPUFFim>0.00</vFCPUFFim>
+                    <vICMSUFFim>0.00</vICMSUFFim>
+                    <vICMSUFIni>0.00</vICMSUFIni>
+                </ICMSUFFim>
+            </imp>
+            <infCTeNorm>
+                <infCteSub>
+                    <chCte>CTe29200606203406000662570110000086721008914000</chCte>
+                    <tomaICMS>
+                        <refCte>CTe29200606203406000662570110000086721008914000</refCte>
+                        <refNFe>NFe29200606203406000662570110000086721008914000</refNFe>
+                        <refNF>
+                            <CNPJ>42463174000130</CNPJ>
+                            <mod>57</mod>
+                            <serie>11</serie>
+                            <subserie>11</subserie>
+                            <nro>1796</nro>
+                            <valor>0</valor>
+                            <dEmi>12/08/2019</dEmi>
+                        </refNF>
+                    </tomaICMS>
+
+                </infCteSub>
+                <veicNovos>
+                    <chassi>12345678912345678</chassi>
+                    <cCor>1234</cCor>
+                    <xCor>VERMELHO</xCor>
+                    <cMod>123456</cMod>
+                    <vUnit>0</vUnit>
+                    <vFrete>0</vFrete>
+
+                </veicNovos>
+                <docAnt>
+                    <emiDocAnt>
+                        <idDocAnt>
+                            <idDocAntPap>
+                                <dEmi>12/08/2019</dEmi>
+                                <nDoc>9636</nDoc>
+                                <tpDoc>00</tpDoc>
+                                <serie>11</serie>
+                                <subser>10</subser>
+                            </idDocAntPap>
+                        </idDocAnt>
+                    </emiDocAnt>
+                </docAnt>
+                <infCarga>
+                    <xOutCat>VOLUME</xOutCat>
+                    <vCarga>1923.55</vCarga>
+                    <proPred>ENTREGA NORMAL</proPred>
+                    <infQ>
+                        <cUnid>03</cUnid>
+                        <tpMed>UNIDADE</tpMed>
+                        <qCarga>1</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>03</cUnid>
+                        <tpMed>PARES</tpMed>
+                        <qCarga>0</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>00</cUnid>
+                        <tpMed>M3</tpMed>
+                        <qCarga>0.0436</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO REAL</tpMed>
+                        <qCarga>2.0000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO BASE DE CALCULO</tpMed>
+                        <qCarga>13.0800</qCarga>
+                    </infQ>
+                    <vCargaAverb>1923.55</vCargaAverb>
+                </infCarga>
+                <infDoc>
+                    <infOutros>
+                        <dEmi>12/08/2019</dEmi>
+                        <nDoc>9636</nDoc>
+                        <tpDoc>00</tpDoc>
+                        <descOutros>Teste</descOutros>
+                        <vDocFisc>0</vDocFisc>
+                    </infOutros>
+                    <infNFe>
+                        <chave>29200682749987001188550040000004231833018426</chave>
+                        <PIN>123456789</PIN>
+                    </infNFe>
+                    <infNF>
+                        <nRoma>N</nRoma>
+                        <nPed>N</nPed>
+                        <mod>57</mod>
+                        <serie>11</serie>
+                        <nDoc>9636</nDoc>
+                        <dEmi>12/08/2019</dEmi>
+                        <vBC>500</vBC>
+                        <vICMS>0</vICMS>
+                        <vBCST>0</vBCST>
+                        <vST>0</vST>
+                        <vNF>0</vNF>
+                        <nCFOP>0</nCFOP>
+                        <nPeso>0</nPeso>
+                        <PIN>123456789</PIN>
+                    </infNF>
+                </infDoc>
+                <infModal versaoModal="3.00">
+                    <duto>
+                        <vTar>0</vTar>
+                        <dIni>2023-08-07</dIni>
+                        <dFim>2023-08-07</dFim>
+                    </duto>
+                    <ferrov>
+                        <tpTraf>0</tpTraf>
+                        <trafMut>
+                            <respFat>1</respFat>
+                            <ferrEmi>2</ferrEmi>
+                            <vFrete>0</vFrete>
+                        </trafMut>
+                    </ferrov>
+                    <aquav>
+                        <balsa>
+                            <xBalsa>123456789</xBalsa>
+                        </balsa>
+                        <vPrest>0</vPrest>
+                        <vAFRMM>0</vAFRMM>
+                        <xNavio>Teste</xNavio>
+                        <nViag>1234567890</nViag>
+                        <direc>N</direc>
+                        <tpNav>1</tpNav>
+                        <detCont>
+                            <lacre>
+                                <nLacre>123456789</nLacre>
+                            </lacre>
+                        </detCont>
+                    </aquav>
+                    <aereo>
+                        <peri>
+                            <nONU>1234</nONU>
+                        </peri>
+                        <nMinu>123456789</nMinu>
+                        <nOCA>12345678910</nOCA>
+                        <tarifa>
+                            <CL>M</CL>
+                            <cTar>123</cTar>
+                            <vTar>0</vTar>
+                        </tarifa>
+                        <natCarga>
+                            <xDime>1234</xDime>
+                            <cInfManu>01</cInfManu>
+                        </natCarga>
+                    </aereo>
+                    <rodoOS>
+                        <infFretamento>
+                            <dhViagem>2020-06-13T12:31:51-03:00</dhViagem>
+                        </infFretamento>
+                        <veic>
+                            <prop>
+                                <CNPJ>42463174000130</CNPJ>
+                                <CPF>47363130809</CPF>
+                                <IE>026501484</IE>
+                                <UF>BA</UF>
+                                <xNome>JACOBINA MINERACAO E COMERCIO LTDA</xNome>
+                                <tpProp>0</tpProp>
+                            </prop>
+                        </veic>
+                    </rodoOS>
+                    <rodo>
+                        <occ>
+                            <serie>11</serie>
+                            <dEmi>12/08/2019</dEmi>
+                            <nOcc>123456</nOcc>
+                            <emiOcc>
+                                <CNPJ>42463174000130</CNPJ>
+                                <IE>026501484</IE>
+                                <UF>BA</UF>
+                                <fone>04133360877</fone>
+                                <cInt>1234567890</cInt>
+                            </emiOcc>
+                        </occ>
+                        <RNTRC>01179174</RNTRC>
+                    </rodo>
+                </infModal>
+            </infCTeNorm>
+            <infRespTec>
+                <CNPJ>01446320000132</CNPJ>
+                <xContato>Suporte SSW</xContato>
+                <email>suporte@ssw.inf.br</email>
+                <fone>04133360877</fone>
+                <idCSRT>0</idCSRT>
+                <hashCSRT>0</hashCSRT>
+            </infRespTec>
+            <infCteAnu>
+                <chCte>0</chCte>
+                <dEmi>12/08/2019</dEmi>
+            </infCteAnu>
+        </infCte>
+        <infCTeSupl>
+            <qrCodCTe>https://dfe-portal.svrs.rs.gov.br/cte/qrCode?chCTe=29200606203406000662570110000086721008914000&amp;tpAmb=1</qrCodCTe>
+        </infCTeSupl>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#CTe29200606203406000662570110000086721008914000">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>dHGVtKR8ank/+uFmVtIb/iSb1Og=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                PpWZnh27KzynYvb7Dybi4zG3KHM5sYNIlIxsamrKuHEPvwWUukUWMdQ6Qfm4q9p6eAflyFZFrZKKTAsKzW5nEzZ4Mq7mAU3ynssqWv8cmhKwJjrfsKD8iUMIEYriyKWawA4C9qOqK3RicUImi0vvZAKcln/oh90yug+LK5PM5gzx11+b0Z4Lt7xLzPZDjAhO2DdSvEfZdtSBLiYpJmKTg2xc6tEemny6OGsp2ewmA2+206oJsWukSW6TAEfZcLlCXaiUWVNhUKosEHLgvWKhkhnIAO/TN+UrJj1a1DlY/qImgaUH8zTM2KfFHDAw7qjOfFPRth+ha6VrkdJpuPxPiA==
+            </SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </CTe>
+    <protCTe versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+        <infProt Id="CTe329200016794509">
+            <tpAmb>1</tpAmb>
+            <verAplic>RS20200124112702</verAplic>
+            <chCTe>29200606203406000662570110000086721008919921</chCTe>
+            <dhRecbto>2020-06-13T12:31:51-03:00</dhRecbto>
+            <nProt>329200016794509</nProt>
+            <digVal>dHGVtKR8ank/+uFmVtIb/iSb1Og=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso do CT-e</xMotivo>
+        </infProt>
+    </protCTe>
+</cteProc>

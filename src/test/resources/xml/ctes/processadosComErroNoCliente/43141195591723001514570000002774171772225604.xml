@@ -1,0 +1,247 @@
+<cteProc versao="2.00" xmlns="http://www.portalfiscal.inf.br/cte">
+    <CTe xmlns="http://www.portalfiscal.inf.br/cte">
+        <infCte versao="2.00" Id="CTe43141195591723001514570000002774171772225604">
+            <ide>
+                <cUF>43</cUF>
+                <cCT>77222560</cCT>
+                <CFOP>6352</CFOP>
+                <natOp>Serviço de Transporte</natOp>
+                <forPag>1</forPag>
+                <mod>57</mod>
+                <serie>0</serie>
+                <nCT>277417</nCT>
+                <dhEmi>2014-11-08T02:39:02</dhEmi>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <tpCTe>0</tpCTe>
+                <procEmi>0</procEmi>
+                <verProc>NDDigital CTe 4.5.1</verProc>
+                <cMunEnv>4313409</cMunEnv>
+                <xMunEnv>Novo Hamburgo</xMunEnv>
+                <UFEnv>RS</UFEnv>
+                <modal>01</modal>
+                <tpServ>0</tpServ>
+                <cMunIni>4313409</cMunIni>
+                <xMunIni>Novo Hamburgo</xMunIni>
+                <UFIni>RS</UFIni>
+                <cMunFim>3526803</cMunFim>
+                <xMunFim>Lençóis Paulista</xMunFim>
+                <UFFim>SP</UFFim>
+                <retira>1</retira>
+                <toma03>
+                    <toma>3</toma>
+                </toma03>
+            </ide>
+            <compl>
+                <xCaracAd>Normal</xCaracAd>
+                <xCaracSer>Rodoviário Nacional Convencion</xCaracSer>
+                <xEmi>vilmarvi</xEmi>
+                <fluxo>
+                    <xOrig>NHA</xOrig>
+                    <pass>
+                        <xPass>NHA</xPass>
+                    </pass>
+                    <xDest>BAU</xDest>
+                    <xRota>010</xRota>
+                </fluxo>
+                <Entrega>
+                    <comData>
+                        <tpPer>1</tpPer>
+                        <dProg>2014-11-19</dProg>
+                    </comData>
+                    <semHora>
+                        <tpHor>0</tpHor>
+                    </semHora>
+                </Entrega>
+                <origCalc>Novo Hamburgo</origCalc>
+                <destCalc>Lençóis Paulista</destCalc>
+                <xObs>PRAZO PREV NO RICMS,AP. III,SEC.I, ITEM III, CONF CONCESSÃO Nº 0540105130| Mercúrio e Araçatuba
+                    são TNT.
+                </xObs>
+                <ObsCont xCampo="Lei da Transparência">
+                    <xTexto>O valor aproximado de tributos incidentes sobre o preço deste serviço é de R$ 646.43.
+                    </xTexto>
+                </ObsCont>
+            </compl>
+            <emit>
+                <CNPJ>95591723001514</CNPJ>
+                <IE>0860152677</IE>
+                <xNome>TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS S/A</xNome>
+                <xFant>Filial Novo Hamburgo</xFant>
+                <enderEmit>
+                    <xLgr>Rua Raimundo Chaves</xLgr>
+                    <nro>21</nro>
+                    <xBairro>Ideal</xBairro>
+                    <cMun>4313409</cMun>
+                    <xMun>Novo Hamburgo</xMun>
+                    <CEP>93334090</CEP>
+                    <UF>RS</UF>
+                    <fone>5121295200</fone>
+                </enderEmit>
+            </emit>
+            <rem>
+                <CNPJ>87550505000108</CNPJ>
+                <IE>0860479714</IE>
+                <xNome>DEMUTH MÁQUINAS INDUSTRIAIS LTDA</xNome>
+                <xFant>DEMUTH MÁQUINAS INDUSTRIAIS LTDA</xFant>
+                <fone>5135628484</fone>
+                <enderReme>
+                    <xLgr>Rua dos Eucaliptos</xLgr>
+                    <nro>100</nro>
+                    <xBairro>Ideal</xBairro>
+                    <cMun>4313409</cMun>
+                    <xMun>Novo Hamburgo</xMun>
+                    <CEP>93334160</CEP>
+                    <UF>RS</UF>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                </enderReme>
+            </rem>
+            <dest>
+                <CNPJ>53943098000187</CNPJ>
+                <IE>416012530113</IE>
+                <xNome>LWARCEL CELULOSE LTDA</xNome>
+                <fone>1432695113</fone>
+                <enderDest>
+                    <xLgr>Rodovia Juliano Lorenzetti KM 4</xLgr>
+                    <nro>S/N</nro>
+                    <xCpl>AC R M Rondon KM 304</xCpl>
+                    <xBairro>SENT CAPITAL INTERIOR</xBairro>
+                    <cMun>3526803</cMun>
+                    <xMun>Lençóis Paulista</xMun>
+                    <CEP>18680900</CEP>
+                    <UF>SP</UF>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                </enderDest>
+                <email>jramos@lwart.com.br</email>
+            </dest>
+            <vPrest>
+                <vTPrest>3042.05</vTPrest>
+                <vRec>3042.05</vRec>
+                <Comp>
+                    <xNome>Frete peso</xNome>
+                    <vComp>2644.93</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>Pedágio</xNome>
+                    <vComp>68.93</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>Despacho</xNome>
+                    <vComp>57.03</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>Frete Valor</xNome>
+                    <vComp>216.93</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>GRIS</xNome>
+                    <vComp>54.23</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>Desconto</xNome>
+                    <vComp>0.00</vComp>
+                </Comp>
+            </vPrest>
+            <imp>
+                <ICMS>
+                    <ICMS00>
+                        <CST>00</CST>
+                        <vBC>3042.05</vBC>
+                        <pICMS>12.00</pICMS>
+                        <vICMS>365.05</vICMS>
+                    </ICMS00>
+                </ICMS>
+                <vTotTrib>646.43</vTotTrib>
+            </imp>
+            <infCTeNorm>
+                <infCarga>
+                    <vCarga>39770.00</vCarga>
+                    <proPred>Peças</proPred>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO DECLARADO</tpMed>
+                        <qCarga>1200.0000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO CUBADO</tpMed>
+                        <qCarga>549.6000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO AFERIDO</tpMed>
+                        <qCarga>1360.0000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO BASE DE CÁLCULO</tpMed>
+                        <qCarga>1360.0000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>03</cUnid>
+                        <tpMed>QTDE DE VOLUMES</tpMed>
+                        <qCarga>5.0000</qCarga>
+                    </infQ>
+                </infCarga>
+                <infDoc>
+                    <infNFe>
+                        <chave>43141187550505000108550010000230461229201846</chave>
+                    </infNFe>
+                </infDoc>
+                <seg>
+                    <respSeg>4</respSeg>
+                    <xSeg>GENERALI DO BRASIL CIA NACIONA</xSeg>
+                    <nApol>35541001624</nApol>
+                    <vCarga>1500000</vCarga>
+                </seg>
+                <infModal versaoModal="2.00">
+                    <rodo>
+                        <RNTRC>00182133</RNTRC>
+                        <dPrev>2014-11-19</dPrev>
+                        <lota>0</lota>
+                    </rodo>
+                </infModal>
+            </infCTeNorm>
+        </infCte>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#CTe43141195591723001514570000002774171772225604">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>XRGfsltIom5bEGjyHgHz7ZlsGo0=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                hWa+7Oonp6rjKusH0bRcu0k8alCdIXu4tH32tEiUojBG3e2Yh7sCnM6yLtBWl63i8sbJIAWSYGho2z3fQp3pmu1MWMW3BlwmNpeZgHjlm5qzcgr9kLJzm7ps00geu8G5OUudUGz2wV1RsN5k++xALC9AUplXKGiSSDlWGG8WcUdRtpFvI/uxEgRC79rEUtnlJd3YBRYo7iYR0z699A0TN/hI1qTbgdRvnB7QPuj26Yi3tf4OvF1Fn7uPnYdmGQjldlYrToWFuOA7T9gxsnTdbXknTE4cHhKlVgpcRHmwhljtKUnxPA7GjtrserlP4szmfbgXWGxlxOqoPEKOjCm90Q==
+            </SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </CTe>
+    <protCTe versao="2.00" xmlns="http://www.portalfiscal.inf.br/cte">
+        <infProt Id="CTe143140031028059">
+            <tpAmb>1</tpAmb>
+            <verAplic>RS20141106144930</verAplic>
+            <chCTe>43141195591723001514570000002774171772225604</chCTe>
+            <dhRecbto>2014-11-08T03:39:07</dhRecbto>
+            <nProt>143140031028059</nProt>
+            <digVal>XRGfsltIom5bEGjyHgHz7ZlsGo0=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso do CT-e</xMotivo>
+        </infProt>
+    </protCTe>
+</cteProc>
